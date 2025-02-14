@@ -1,7 +1,7 @@
 # Version Control Exercises MIT Missing Semester <br>
 
 cloning git repo on local machine<br>
-![alt text](image-1.png)<br>
+![alt text](../images/image-1.png)<br>
 
 viewing graph<br>
 ![alt text](image-2.png)<br>
