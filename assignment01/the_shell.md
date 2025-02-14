@@ -1,7 +1,8 @@
 # The Shell
 
 to check the installation of shell<br>
-![alt text](images/image-9.png)<br>
+![image](https://github.com/user-attachments/assets/779c48aa-e130-4af0-b2b9-203bbcfb2f27)
+<br>
 
 creating the file semester and adding the following contents to it<br>
 ![alt text](images/image-10.png)<br>
